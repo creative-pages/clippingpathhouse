@@ -1,0 +1,46 @@
+.sidebar-nav ul .sidebar-item.selected>.sidebar-link {
+	border-right: 5px solid #eeeeee;
+}
+.nav-item.nav-link.active {
+	color: #fff;
+    background-color: #4c32e9;
+    border-color: #4226e8;
+}
+
+.input_green_border,
+.input_green_border:focus {
+	border: 2px solid green;
+}
+
+.bg-navy {
+    background-color: #001f3f !important;
+    color: #ffff!important;
+}
+.form-group input[type=file] {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    z-index: 100;
+}
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.glyphicon-plus:before {
+    content: "\002b";
+}
+input#btn_job_submit:hover {
+    background-color: green!important;
+    border: 1px solid green!important;
+}
