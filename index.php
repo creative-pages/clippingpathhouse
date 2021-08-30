@@ -1,5 +1,27 @@
 <?php require_once "inc/header.php"; ?>
 
+<section class="my-5 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5 d-flex align-items-center">
+                <div>
+                    <h2 class="fs_20 lh_26 mb-3 font-weight-bold">WE BELIEVE IN</h2>
+                    <h1 class="fs_35 lh_44 font-weight-bold mb-4">Do What You Do The Best Outsource The Rest</h1>
+                    <p class="fs_15 color_2f1c6a lh_26">Guaranteed Premium Quality &amp; Effortless Outsourcing </p>
+                    <a class="service_btn" href="contact-us.php">Get Started</a>
+                </div>
+            </div>
+            <div class="col-md-2"></div>
+            <div class="col-md-5">
+                <div class="header_img">
+                    <img class="w-100" src="assets/img/home/header-Background.png" alt="">
+                    <img class="img_1st_before" src="assets/img/home/header-image-before.png" alt="">
+                    <img class="img_2nd_after" src="assets/img/home/header-image-after.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="my-5">
 	<div class="container text-center">

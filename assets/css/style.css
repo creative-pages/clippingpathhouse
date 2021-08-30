@@ -32,6 +32,9 @@ a:hover {
 .color_938b8b {
     color: #938b8b;
 }
+.color_2f1c6a {
+    color: #2f1c6a;
+}
 
 
 .fs_14 {
@@ -49,6 +52,18 @@ a:hover {
 .fs_18 {
   font-size: 18px;
 }
+.fs_19 {
+  font-size: 19px;
+}
+.fs_20 {
+  font-size: 20px;
+}
+.fs_30 {
+  font-size: 30px;
+}
+.fs_35 {
+  font-size: 35px;
+}
 
 .fs_44 {
   font-size: 44px;
@@ -60,6 +75,9 @@ a:hover {
 }
 .lh_28 {
   line-height: 28px;
+}
+.lh_45 {
+  line-height: 45px;
 }
 .lh_50 {
   line-height: 50px;
@@ -294,35 +312,30 @@ a:hover {
 
 
 /* home page start */
-/* owl carousel prev next */
-.owl-carousel .owl-nav button.owl-next,
-.owl-carousel .owl-nav button.owl-prev {
+.header_img {
+    position: relative;
+}
+.header_img .img_1st_before,
+.header_img .img_2nd_after {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
+    transition: all .3s ease;
+    width: 424px;
+    height: auto;
+    left: 20px;
 }
-.owl-carousel .owl-nav button.owl-next:focus,
-.owl-carousel .owl-nav button.owl-prev:focus {
-    border: none;
-    outline: none;
+.header_img .img_2nd_after {
+    opacity: 0;
 }
-.owl-carousel .owl-nav button.owl-prev {
-    left: -80px;
+.header_img:hover .img_1st_before {
+    opacity: 0;
 }
-.owl-carousel .owl-nav button.owl-next {
-    right: -80px;
-}
-
-.owl-carousel .owl-nav button.owl-next span,
-.owl-carousel .owl-nav button.owl-prev span {
-    width: 40px;
-    height: 40px;
-    display: block;
-    background: #0d56a2;
-    color: white;
-    font-size: 30px;
-    text-align: center;
-    line-height: 35px;
+.header_img:hover .img_2nd_after {
+    opacity: 1;
+    left: 12px;
+    width: 440px;
+    height: auto;
 }
 
 .breadcumbs {
