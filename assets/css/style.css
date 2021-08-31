@@ -171,7 +171,7 @@ a:hover {
 
 .menu ul li {
   float: left;
-  border-right: 1px solid rgba(129,129,129,.2);
+  /* border-right: 1px solid rgba(129,129,129,.2); */
 }
 .menu ul li:last-child {
   border-right: none;
@@ -572,6 +572,60 @@ ul.cusstyled {
 }
 /* service page end */
 
+
+
+/* price page start */
+.single_product {
+    box-shadow: 0px 0px 3px 1px #d1d1d1;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.single_product a {
+    background: #404040;
+    color: #fff!important;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.single_product:hover a {
+    background: #86c440;
+}
+
+.price_bulk_order:hover {
+    transition: 0.3s;
+    transform: scale(1.02);
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 50%);
+}
+#all_service_price .nav a {
+    /*text-transform: uppercase;*/
+    color: rgb(26, 32, 41);
+    /*padding-top: 25px;*/
+    /*padding-bottom: 25px;*/
+    background: rgba(0, 0, 0, 0.01);
+    /*text-align: center;*/
+    /*letter-spacing: 2.5px;*/
+    font-weight: 600;
+    border-radius: 0px;
+    border: 1px solid rgba(188,188,188,.33);
+}
+#all_service_price .nav a:not(:first-child):hover,
+#all_service_price .nav a:not(:first-child).active{
+    background: rgb(204, 204, 204);
+}
+
+#all_service_price .nav a.active:hover {
+    background: rgb(204, 204, 204);
+}
+#all_service_price .nav-link {
+    padding: 10.8px 16px;
+}
+/* price page end */
 
 
 

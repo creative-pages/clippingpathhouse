@@ -1,6 +1,6 @@
 <?php require_once "inc/header.php"; ?>
 
-<section class="my-5 py-5">
+<section class="mt-5 py-5">
     <div class="container">
         <div class="row">
             <div class="col-md-5 d-flex align-items-center">
@@ -504,6 +504,18 @@
             </div>
           </div>
         </div>
+    </div>
+</section>
+
+
+<section class="mt-5 pt-4">
+    <div class="container">
+        <h3 class="fs_18 mb-3">Photo Editing Service</h3>
+        <p class="fs_14" align="justify">Sometimes most expensive gears are not enough to make a photo perfect. <b>Photo editing service</b> makes sure the final process to bring out an amazing photo. There was a time when photo just meant to be keep memories alive. People were not enough concern about the quality of photos because of ancient technology. Everything is changed now but the tendency of taken photos for personal and business purpose have created huge demand. Advance technology give people more access to keep the photos more alive. Therefore, people nowadays are looking for edited photos to make to more vivid and colorful. There are lots of free tools to edit photos but the there is no doubt Photoshop is the best tools to make a photo perfect. Only an expert photo editor knows how to use Photoshop to edit image and make it perfect. Clipping Path House Graphics Media is one of the leading photo editing Service Company who are providing best Photoshop image editing service. We have a group of expert photo editor who are talented, creative and efficient to convert an ordinary photo into tremendous one. We have done thousands of photo editing projects for eCommerce business and personal use in worldwide. We are providing 24/7 response time as well as perfection in our service.</p>
+
+        <br>
+        <h3 class="fs_18 mb-3">What is clipping path? service</h3>
+        <p class="fs_14" align="justify">Clipping Path is a technique of Photoshop photo editing in which a photo background can be removed or changed keeping the subject exactly the same. Clipping Path requires more efficiency to ensure the subject edge smooth and perfect. E-commerce products mainly require clipping path to remove the background of the product photos. Moreover, clipping path is the best option to eliminate background from photos and the subject can be place in any background without losing any part of the path area. Top eCommerce marketplace don't allow normal background of a product photo thus seller need to remove the background and make it solid color. Nowadays a lot of photo editing companies are providing clipping path service as well as several clipping path company are working on only clipping path editing. Clipping Path House Graphics Media is one of the leading clipping path service providers who are providing best clipping path with guaranteed satisfaction of their clients.</p>
     </div>
 </section>
 

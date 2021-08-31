@@ -86,7 +86,13 @@ header("Cache-Control: max-age=2592000");
 			<div class="header_top border-bottom">
 				<div class="container">
 					<div class="row">
-					    <div class="col-6">
+						<div class="col-6 d-flex align-items-center justify-content-start">
+							<div class="small py-1">
+								<a href="authentication.php" class="text-muted mr-2 font-weight-bold text-decoration-none login_signup">Login</a> |
+								<a href="authentication.php" class="text-muted ml-2 font-weight-bold text-decoration-none login_signup">Sign Up</a>
+							</div>
+						</div>
+					   <div class="col-6">
 							<!--<div class="float-right social_icon">-->
 							<!--	<a class="d-inline-block px-1 text-white" href="https://www.facebook.com/Wardrobedacca" title="Wardrobedacca | Facebook" target="_blank">-->
 							<!--		<i class="fa fa-facebook-f"></i>-->
@@ -105,16 +111,10 @@ header("Cache-Control: max-age=2592000");
 							<!--	</a>-->
 							<!--</div>-->
 						</div>
-						<div class="col-6 d-flex align-items-center justify-content-end">
-							<div class="small py-1">
-								<a href="authentication.php" class="text-muted mr-2 font-weight-bold text-decoration-none login_signup">Login</a> |
-								<a href="authentication.php" class="text-muted ml-2 font-weight-bold text-decoration-none login_signup">Sign Up</a>
-							</div>
-						</div>
 					</div>
 				</div>
 			</div>
-			<div class="header_middle border-bottom">
+			<div class="header_middle">
 				<div class="container-fluid px-5">
 					<div class="row">
 						<div class="col-md-3">
@@ -183,6 +183,12 @@ header("Cache-Control: max-age=2592000");
 			    <div class="header_top border-bottom">
 				<div class="container">
 					<div class="row">
+						<div class="col-6 d-flex align-items-center justify-content-start">
+							<div class="small py-1">
+								<a href="authentication.php" class="mr-2 font-weight-bold text-decoration-none login_signup">Login</a> |
+								<a href="authentication.php" class="ml-2 font-weight-bold text-decoration-none login_signup">Sign Up</a>
+							</div>
+						</div>
 						<div class="col-6">
 							<!--<div class="float-right social_icon">-->
 							<!--	<a class="d-inline-block px-1 text-white" href="https://www.facebook.com/Wardrobedacca" title="Wardrobedacca | Facebook" target="_blank">-->
@@ -201,13 +207,6 @@ header("Cache-Control: max-age=2592000");
 							<!--		<i class="fa fa-whatsapp"></i>-->
 							<!--	</a>-->
 							<!--</div>-->
-						</div>
-						
-						<div class="col-6 d-flex align-items-center justify-content-end">
-							<div class="small py-1">
-								<a href="authentication.php" class="mr-2 font-weight-bold text-decoration-none login_signup">Login</a> |
-								<a href="authentication.php" class="ml-2 font-weight-bold text-decoration-none login_signup">Sign Up</a>
-							</div>
 						</div>
 					</div>
 				</div>

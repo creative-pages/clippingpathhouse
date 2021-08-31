@@ -49,17 +49,43 @@
 <footer class="bg-dark pt-4 mt-auto">
 	<div class="container">
 		<div class="row">
+			<div class="col-sm-6 col-lg-3 mb-4">
+				<h5 class="text-uppercase text-white mt-4 mt-sm-0 mb-3">Service Review</h5>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photo-editing-service-for-photographers.php">Photoshop Services</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="image-clipping-path-services-provider-company.php">Clipping Path Services</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photoshop-image-masking-service.php">Image Masking Services</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photoshop-image-retouching-service.php">Image Retouching Service</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="ghost-mannequin-effect-photoshop.php">Ghost Mannequin Remove</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photoshop-photo-shadow-effect.php">Image Shadow Effect</a>
+				<a class="d-block text-light text-decoration-none py-1" href="eCommerce-product-image-editing-services.php">eCommerce Image Optimization</a>
+			</div>
+			<div class="col-sm-6 col-lg-3 mb-4">
+				<h5 class="text-uppercase text-white mt-4 mt-md-0 mb-3">Contact Sales</h5>
+				
+				<p class="text-white fs_14">
+					<strong class="">Mr. Asif</strong><br>
+					<strong class="pcolos">Manager Operation</strong><br>
+			                Email: cph@cphgraphics(.)com<br>
+			                Phone: +88-01972489608<br>
+			    </p>
+
+				<h5 class="text-uppercase text-white mt-4 mt-md-0 mb-3">Admin</h5>
+				
+				<p class="text-white fs_14"><strong class="">Mr. Sezan Mahmud</strong><br>
+					<strong class="pcolos">Managing Partner</strong><br>
+			                Email: bdsezan007@hotmail(.)com<br>
+			                Phone: +88-01711442709<br>
+			    </p>
+			</div>
 			<div class="col-sm-6 col-lg-3 mb-4 service">
-				<a href="/">
-				    <img src="assets/img/image-editing-service-company.png" alt="" style="width: 100%; max-width: 331px; margin-left: -15px;">
-				</a>
-				<p class="text-white">CPP Graphics Media<br>
-				270 Ibrahimpur, Mirpur<br>
-                Dhaka- 1216, Bangladesh<br>
-                info(at)clippingpathphoto.com<br>
-                www.clippingpathphoto.com<br>
-                Phone: +88-01754399091<br>
-                Skype: CPP Graphics Media</p>
+				<h5 class="text-uppercase text-white mt-4 mt-md-0 mb-3">Contact Production</h5>
+				
+				<p class="text-white">584, Mirpur - 14, Kafrul<br>
+                Dhaka- 1206, Bangladesh<br>
+                Email: info@clippingpathhouse(.)com<br>
+                www.clippingpathhouse.com<br>
+                Phone: +88-01741906076<br>
+                Skype: cph.graphics</p>
 
 	            <div class="footer_social mt-4">
 					<a href="https://www.facebook.com/CPP-Graphics-Media-102446895304790" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
@@ -78,26 +104,6 @@
 						<i class="fa fa-pinterest-p"></i>
 					</a>
 				</div>
-			</div>
-			<div class="col-sm-6 col-lg-3 mb-4">
-				<h5 class="text-uppercase text-white mt-4 mt-sm-0 mb-3">Popular Services</h5>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photo-editing-service-for-photographers.php">Photoshop Services</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="image-clipping-path-services-provider-company.php">Clipping Path Services</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photoshop-image-masking-service.php">Image Masking Services</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photoshop-image-retouching-service.php">Image Retouching Service</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="ghost-mannequin-effect-photoshop.php">Ghost Mannequin Remove</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photoshop-photo-shadow-effect.php">Image Shadow Effect</a>
-				<a class="d-block text-light text-decoration-none py-1" href="eCommerce-product-image-editing-services.php">eCommerce Image Optimization</a>
-			</div>
-			<div class="col-sm-6 col-lg-3 mb-4">
-				<h5 class="text-uppercase text-white mt-4 mt-md-0 mb-3">Facility For You</h5>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary">24/7 Support & Services</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary">100% Quality Assurance</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary">Faster Delivery Facility</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary">Data Security Guarantee</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary">PayPal - Bank - Payoneer</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary">Free Client Web Panel</a>
-				<a class="d-block text-light text-decoration-none py-1 border-secondary">Professional Dedicated Team</a>
 			</div>
 			<div class="col-sm-6 col-lg-3 mb-4">
 				<h5 class="text-uppercase text-white mt-4 mt-md-0 mb-3">QUICK QUERY</h5>
@@ -129,7 +135,11 @@
 	<br>
 	<div id="footer_bottom" style="background-color: black;">
 		<div class="container py-3">
-			<div class="text-center text-secondary">Copyright © 2021 – 2023 CPP Graphics Media
+			<div class="text-center text-secondary">
+				<a href="/">
+				    <img src="assets/img/image-editing-service-company.png" alt="" style="margin-right: 15px; height: 50px;">
+				</a>
+				Copyright © 2021 – 2023 CPP Graphics Media
 				<div class="footer_middle d-inline-block">
 					|
 					<a href="privacy-policy.php" class="text-decoration-none text-white">
