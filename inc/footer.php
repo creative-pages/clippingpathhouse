@@ -51,7 +51,7 @@
 		<div class="row">
 			<div class="col-sm-6 col-lg-3 mb-4 service">
 				<a href="/">
-				    <img src="assets/img/Clipping-Path-Photo-Service.png" alt="" style="width: 100%; max-width: 331px; margin-left: -15px;">
+				    <img src="assets/img/image-editing-service-company.png" alt="" style="width: 100%; max-width: 331px; margin-left: -15px;">
 				</a>
 				<p class="text-white">CPP Graphics Media<br>
 				270 Ibrahimpur, Mirpur<br>

@@ -58,6 +58,9 @@ a:hover {
 .fs_20 {
   font-size: 20px;
 }
+.fs_22 {
+  font-size: 22px;
+}
 .fs_30 {
   font-size: 30px;
 }
@@ -458,6 +461,64 @@ a:hover {
     color: #fff;
 }
 
+.tab_home {
+    opacity: .9;
+    background-color: #0a0a0a;
+    background-image: url('../img/home/diagonal-thin-light.png');
+    background-repeat: repeat;
+}
+
+.tab_home nav a {
+    width: 33.15%;
+    text-transform: uppercase;
+    color: white!important;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #005274;
+    text-align: center;
+    letter-spacing: 2.5px;
+    font-weight: 600;
+    border-radius: 0px!important;
+}
+.tab_home nav a:not(:last-child) {
+    margin-right: 3px;
+}
+
+.tab_home nav a:hover,
+.tab_home nav a.active {
+    background: #9c6!important;
+    border-color: #9c6!important;
+}
+.nav-tabs {
+    border: none;
+    margin-bottom: 2px;
+}
+
+ul.cusstyled {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.feature-tab-list li {
+    color: #1d1d1d !important;
+    float: left;
+    font-size: 12px;
+    line-height: 24px;
+    padding: 5px 0 5px 25px;
+    position: relative;
+    width: 100%;
+}
+.feature-tab-list li::before {
+    color: rgb(102, 102, 102);
+    content: "";
+    display: inline-block;
+    font-family: FontAwesome;
+    font-size: 18px;
+    left: 0px;
+    position: absolute;
+    top: 5px;
+}
+
 /* home page end
 
 
@@ -528,6 +589,7 @@ a:hover {
     width: 30%;
     display: inline-block;
     margin-right: 8px;
+    font-size: 18px;
 }
 /* contact_get_order part end */
 

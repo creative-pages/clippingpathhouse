@@ -299,6 +299,215 @@
 </section>
 
 <section class="py-5 main_bg">
+    <div class="container">
+        <h2 class="text-center font-weight-bold mb-5 pb-3">Why Clipping Service House</h2>
+
+        <div class="row">
+            <div class="col-sm-6 col-lg-3">
+                <div class="text-center">
+                    <img src="assets/img/home/170-Skilled-Resources.png" alt="Clipping Path House">
+                </div>
+                <div class="text-center my-4">
+                    <img src="assets/img/home/heighticon.jpg" alt="Clipping Path House">
+                </div>
+                <div class="text-center">
+                    <h4 class="fs_20" style="color: #3a3a3a;">In house</h4>
+                    <p class="fs_15 text-muted">We have 50+ in-house professional graphic Designer</p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-3">
+                <div class="text-center">
+                    <h4 class="fs_20" style="color: #3a3a3a;">In house</h4>
+                    <p class="fs_15 text-muted">We have 50+ in-house professional graphic Designer</p>
+                </div>
+                <div class="text-center my-4">
+                    <img src="assets/img/home/heighticon.jpg" alt="Clipping Path House">
+                </div>
+                <div class="text-center">
+                    <img src="assets/img/home/170-Skilled-Resources.png" alt="Clipping Path House">
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-3">
+                <div class="text-center">
+                    <img src="assets/img/home/170-Skilled-Resources.png" alt="Clipping Path House">
+                </div>
+                <div class="text-center my-4">
+                    <img src="assets/img/home/heighticon.jpg" alt="Clipping Path House">
+                </div>
+                <div class="text-center">
+                    <h4 class="fs_20" style="color: #3a3a3a;">In house</h4>
+                    <p class="fs_15 text-muted">We have 50+ in-house professional graphic Designer</p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-3">
+                <div class="text-center">
+                    <h4 class="fs_20" style="color: #3a3a3a;">In house</h4>
+                    <p class="fs_15 text-muted">We have 50+ in-house professional graphic Designer</p>
+                </div>
+                <div class="text-center my-4">
+                    <img src="assets/img/home/heighticon.jpg" alt="Clipping Path House">
+                </div>
+                <div class="text-center">
+                    <img src="assets/img/home/170-Skilled-Resources.png" alt="Clipping Path House">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-5" style="background-color: #ffffff;">
+    <div class="container">
+        <br>
+        <h5 class="text-center text-uppercase text-muted mb-5" style="color: #575655; font-size: 30px; font-weight: bold;">PRICING</h5>
+        <div class="row">
+            <div class="col-md-4 pb-4 pb-sm-0">
+                <div class="px-5 text-center" style="cursor: pointer;">
+                    <div style="width: 150px; margin: auto;">
+                        <img src="assets/img/price/pen tool.svg" class="w-100" alt="clipping path house">
+                    </div>
+                    <h3 style="margin: 32px auto 8px; font-size: 22px; line-height: 1.4em; text-align: center;">Clipping path</h3>
+                    <p style="font-size: 16px; text-align: center; font-weight: 100;">Starting at <span style="font-size: 22px;">$0.39 USD</span>/image</p>
+                </div>
+            </div>
+            <div class="col-md-4 pb-4 pb-sm-0">
+                <div class="px-5 text-center" style="cursor: pointer;">
+                    <div style="width: 150px; margin: auto;">
+                        <img src="assets/img/price/retouch.svg" class="w-100" alt="clipping path house">
+                    </div>
+                    <h5 style="margin: 32px auto 8px; font-size: 22px; line-height: 1.4em; text-align: center;">Photoshop retouching</h5>
+                    <p style="font-size: 16px; text-align: center; font-weight: 100;">Starting at <span style="font-size: 22px;">$0.69 USD</span>/image</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="px-5 text-center" style="cursor: pointer;">
+                    <div style="width: 150px; margin: auto;">
+                        <img src="assets/img/price/suit.svg" class="w-100" alt="clipping path house">
+                    </div>
+                    <h3 style="margin: 32px auto 8px; font-size: 22px; line-height: 1.4em; text-align: center;">Ghost mannequin</h3>
+                    <p style="font-size: 16px; text-align: center; font-weight: 100;">Starting at <span style="font-size: 22px;">$0.49 USD</span>/image</p>
+                </div>
+            </div>
+        </div>
+        <div class="text-center">
+            <a rel="nofollow" href="image-editing-price.php" class="free_trial_purple mt-5 d-inline-block">Details Price</a>
+        </div>
+    </div>
+</section>
+
+<section class="py-5" style="background-color: #f8fafe;">
+    <div class="container">
+        <h5 class="py-3 px-md-5 text-center" style="color: #656260; font-size: 30px; font-weight: bold; letter-spacing: 0.50px;">Why We are Perfect Editor for You ?</h5>
+        <br>
+        
+        <div class="row">
+            <div class="col-sm-6 mb-5 mb-sm-0">
+                <div class="" style="box-shadow: 0px 0px 62px 0px rgb(0 22 106 / 12%);">
+                    <img src="assets/img/home/review/CPH Google review.jpg" class="w-100" alt="Photoshop Image House">
+                </div>
+            </div>
+            <div class="col-sm-6">
+                
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/HGD8xJ2GCb4?wmode=opaque" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+    <br>
+</section>
+
+<section class="tab_home py-5">
+    <div class="container">
+        <h3 class="fs_22 mb-3 text-white text-center">Confused to See Thousand Clipping web-Sites...? Most of are Not Actually What They Said...!! <br> 
+        We Are One of The Real Best of Image Editing Service Provider Company
+        </h3>
+        <p class="fs_15 text-white text-center">Any Time You May Visit Our Office & If You Want We May Come to You for Corporate Support</p>
+
+        <nav>
+          <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <a class="nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Our Strengths</a>
+            <a class="nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Facility for You</a>
+            <a class="nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Our Working Field</a>
+          </div>
+        </nav>
+        <div class="tab-content bg-white p-3" id="nav-tabContent">
+          <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+            <div class="row">
+                <div class="col-sm-4">
+                    <ul class="cusstyled feature-tab-list">
+                        <li>In-House 200+ Expert Graphic Designers</li>
+                        <li>Each Client Wise Personal Dedicated Support</li>
+                        <li>Verified Company - PayPal Account</li>
+                        <li>Daily 3000+ E-Commerce Image Process Capacity</li>
+                    </ul>
+                </div>
+                <div class="col-sm-4">
+                    <ul class="cusstyled feature-tab-list">
+                        <li>Virtual Private Server under Godaddy.Com </li>
+                        <li>Urgent Delivery Service (1hr, 3hrs, 6hrs)</li>
+                        <li>And Many More...</li>
+                    </ul>
+                </div>
+            </div>
+          </div>
+          <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+              <div class="row">
+                <div class="col-sm-4">
+                    <ul class="cusstyled feature-tab-list">
+                        <li>Each Client Wise Personal Data Base Maintain</li>
+                        <li>Each Client Wise Personal Dedicated Ftp Account </li>
+                        <li>Flat Rate on Bulk Order (Up To 30% Discount)</li>
+                        <li>Triple Check Quality Control</li>
+                    </ul>
+                </div>
+                <div class="col-sm-4">
+                    <ul class="cusstyled feature-tab-list">
+                        <li>Monthly Payment Facility</li>
+                        <li>Bank / PayPal / C-Card</li>
+                        <li>Best Quality at Competitive Price</li>
+                        <li>24/7/365 Real Personal Support &amp; Service</li>
+                    </ul>
+                </div>
+                <div class="col-sm-4">
+                    <ul class="cusstyled feature-tab-list">
+                        <li>Open At Christmas &amp; Others at Any Festival</li>
+                        <li>No Payment before Satisfaction</li>
+                        <li>Treat Us as Your Own Production House </li>
+                        <li>And Many More...</li>
+                    </ul>
+                </div>
+            </div>
+          </div>
+          <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+              <div class="row">
+                <div class="col-sm-4">
+                    <ul class="cusstyled feature-tab-list">
+                        <li>E-Commerce</li>
+                        <li>Online Retailer</li>
+                        <li>Photographic Studio</li>
+                        <li>Photographer</li>
+                    </ul>
+                </div>
+                <div class="col-sm-4">
+                    <ul class="cusstyled feature-tab-list">
+                        <li>Advertising Agency</li>
+                        <li>Wholesaler</li>
+                        <li>Manufacturer</li>
+                        <li>Printing Agency</li>
+                    </ul>
+                </div>
+                <div class="col-sm-4">
+                    <ul class="cusstyled feature-tab-list">
+                        <li>Graphic Design Agency</li>
+                        <li>Web Development Agency</li>
+                        <li>And Many More...</li>
+                    </ul>
+                </div>
+            </div>
+          </div>
+        </div>
+    </div>
+</section>
+
+<!-- <section class="py-5 main_bg">
 	<br>
 	<div class="container">
 		<div class="row">
@@ -314,7 +523,7 @@
 		</div>
 	</div>
 	<br>
-</section>
+</section> -->
 
 <section class="my-5 py-4">
 	<div class="container">
