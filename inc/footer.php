@@ -20,7 +20,7 @@
                     <a href="javascript:void(Tawk_API.toggle())" class="rounded text-center text-decoration-none mr-2">
                         <img src="assets/img/live-chat.png" alt="" height="80" width="100" >
                     </a>
-                    <a href="contact-us.php" class="rounded text-center text-decoration-none mr-2">
+                    <a href="" class="rounded text-center text-decoration-none mr-2">
                         <img src="assets/img/support-ticket.png" alt="" height="80" width="100" >
                     </a>
                     <a href="tel:+8801711442709" class="rounded text-center text-decoration-none mr-2">
@@ -51,13 +51,13 @@
 		<div class="row">
 			<div class="col-sm-6 col-lg-3 mb-4">
 				<h5 class="text-uppercase text-white mt-4 mt-sm-0 mb-3">Service Review</h5>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photo-editing-service-for-photographers.php">Photoshop Services</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="image-clipping-path-services-provider-company.php">Clipping Path Services</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photoshop-image-masking-service.php">Image Masking Services</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photoshop-image-retouching-service.php">Image Retouching Service</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="ghost-mannequin-effect-photoshop.php">Ghost Mannequin Remove</a>
-				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="photoshop-photo-shadow-effect.php">Image Shadow Effect</a>
-				<a class="d-block text-light text-decoration-none py-1" href="eCommerce-product-image-editing-services.php">eCommerce Image Optimization</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="">Photoshop Services</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="">Clipping Path Services</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="">Image Masking Services</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="p">Image Retouching Service</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="">Ghost Mannequin Remove</a>
+				<a class="d-block text-light text-decoration-none py-1 border-bottom border-secondary" href="p">Image Shadow Effect</a>
+				<a class="d-block text-light text-decoration-none py-1" href="">eCommerce Image Optimization</a>
 			</div>
 			<div class="col-sm-6 col-lg-3 mb-4">
 				<h5 class="text-uppercase text-white mt-4 mt-md-0 mb-3">Contact Sales</h5>
@@ -88,19 +88,19 @@
                 Skype: cph.graphics</p>
 
 	            <div class="footer_social mt-4">
-					<a href="https://www.facebook.com/CPP-Graphics-Media-102446895304790" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
+					<a href="" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
 						<i class="fa fa-facebook"></i>
 					</a>
-					<a href="https://twitter.com/CppGraphics" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
+					<a href="" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
 						<i class="fa fa-twitter"></i>
 					</a>
-					<a href="https://www.linkedin.com/company/CppGraphicsmedia" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
+					<a href="" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
 						<i class="fa fa-linkedin"></i>
 					</a>
-					<a href="https://www.youtube.com/channel/UCax2t7DSbQakFyE8Y-gFNIg" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
+					<a href="" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
 						<i class="fa fa-youtube"></i>
 					</a>
-					<a href="https://www.pinterest.com/cppgraphicsmedia" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
+					<a href="" rel="nofollow" target="_blank" class="d-inline-block text-white text-decoration-none rounded">
 						<i class="fa fa-pinterest-p"></i>
 					</a>
 				</div>
@@ -142,13 +142,13 @@
 				Copyright © 2021 – 2023 CPP Graphics Media
 				<div class="footer_middle d-inline-block">
 					|
-					<a href="privacy-policy.php" class="text-decoration-none text-white">
+					<a href="" class="text-decoration-none text-white">
 					Privacy
 					</a>|
-					<a href="photo-editor-service-provider-terms-and-conditions.php" class="text-decoration-none text-white">
+					<a href="" class="text-decoration-none text-white">
 					Terms and Conditions
 					</a>|
-					<a href="blog" target="_blank" class="text-decoration-none text-white">
+					<a href="" target="_blank" class="text-decoration-none text-white">
 						Blog
 					</a>
 				</div>

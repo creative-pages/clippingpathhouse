@@ -130,42 +130,42 @@ header("Cache-Control: max-age=2592000");
 											<a href="/">Home</a>
 										</li>
 										<li class="position-relative services">
-											<a href="photo-editing-service-for-photographers.php">Services</a>
+											<a href="">Services</a>
 											<div class="services_menu">
-												<a href="image-clipping-path-services-provider-company.php">Clipping Path Service</a>
-												<a href="photoshop-image-multi-clipping-path-services.php">Multi Clipping Path Service</a>
-												<a href="image-background-removal-services.php">Background Removal Service</a>
-												<a href="photoshop-image-masking-service.php">Photoshop Image Masking Service</a>
-												<a href="photoshop-image-retouching-service.php">Image Retouching Service</a>
-												<a href="ghost-mannequin-effect-photoshop.php">Mannequin Remove Neck Joint</a>
-												<a href="photoshop-photo-shadow-effect.php">Image Shadow Effect</a>
-												<a href="image-enhancement-services.php">Image Enhancement Services</a>
-												<a href="photoshop-Color-variant-changing.php">Color Variants & Color Changing</a>
-												<a href="eCommerce-product-image-editing-services.php">eCommerce Product Image Edit</a>
+												<a href="">Clipping Path Service</a>
+												<a href="">Multi Clipping Path Service</a>
+												<a href="">Background Removal Service</a>
+												<a href="">Photoshop Image Masking Service</a>
+												<a href="">Image Retouching Service</a>
+												<a href="">Mannequin Remove Neck Joint</a>
+												<a href="">Image Shadow Effect</a>
+												<a href="">Image Enhancement Services</a>
+												<a href="">Color Variants & Color Changing</a>
+												<a href="">eCommerce Product Image Edit</a>
 											</div>
 										</li>
 										<li>
-											<a href="image-editing-price.php">Pricing</a>
+											<a href="">Pricing</a>
 										</li>
 										<li class="position-relative resources">
 											<a href="javascript:void(0)">Resources</a>
 											<div class="resources_menu">
-												<a href="free-quote.php">Get a Free Quote</a>
-												<a href="how-it-work.php">How It Works - FAQ</a>
-												<a href="photoshop-image-editing-work.php">Gallery</a>
-												<a href="privacy-policy.php">Privacy Policy</a>
-												<a href="photo-editor-service-provider-terms-and-conditions.php">Terms and Conditions</a>
-												<a href="https://www.clippingpathphoto.com/blog/" target="_block">Blog</a>
+												<a href="">Get a Free Quote</a>
+												<a href="">How It Works - FAQ</a>
+												<a href="">Gallery</a>
+												<a href="">Privacy Policy</a>
+												<a href="">Terms and Conditions</a>
+												<a href="" target="_block">Blog</a>
 											</div>
 										</li>
 										<li>
-                    						<a href="photo-editing-service-provider-in-bangladesh.php">About Us</a>
-                    					</li>
+          						<a href="">About Us</a>
+          					</li>
 										<li>
-											<a href="contact-us.php">Contact</a>
+											<a href="">Contact</a>
 										</li>
 										<li>
-											<a href="free-trial.php" class="free_trial btn btn-primary btn-sm text-white py-1 mx-3" style="margin-top: 4px;letter-spacing: 1.2px;font-size: 16px;"><b>Free Trial</b></a>
+											<a href="" class="free_trial btn btn-primary btn-sm text-white py-1 mx-3" style="margin-top: 4px;letter-spacing: 1.2px;font-size: 16px;"><b>Free Trial</b></a>
 										</li>
 										<li>
 											<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -226,42 +226,42 @@ header("Cache-Control: max-age=2592000");
 											<a href="/">Home</a>
 										</li>
 										<li class="position-relative services">
-											<a href="photo-editing-service-for-photographers.php">Services</a>
+											<a href="">Services</a>
 											<div class="services_menu">
-												<a href="image-clipping-path-services-provider-company.php">Clipping Path Service</a>
-												<a href="photoshop-image-multi-clipping-path-services.php">Multi Clipping Path Service</a>
-												<a href="image-background-removal-services.php">Background Removal Service</a>
-												<a href="photoshop-image-masking-service.php">Photoshop Image Masking Service</a>
-												<a href="photoshop-image-retouching-service.php">Image Retouching Service</a>
-												<a href="ghost-mannequin-effect-photoshop.php">Mannequin Remove Neck Joint</a>
-												<a href="photoshop-photo-shadow-effect.php">Image Shadow Effect</a>
-												<a href="image-enhancement-services.php">Image Enhancement Services</a>
-												<a href="photoshop-Color-variant-changing.php">Color Variants & Color Changing</a>
-												<a href="eCommerce-product-image-editing-services.php">eCommerce Product Image Edit</a>
+												<a href="">Clipping Path Service</a>
+												<a href="">Multi Clipping Path Service</a>
+												<a href="">Background Removal Service</a>
+												<a href="">Photoshop Image Masking Service</a>
+												<a href="">Image Retouching Service</a>
+												<a href="">Mannequin Remove Neck Joint</a>
+												<a href="">Image Shadow Effect</a>
+												<a href="">Image Enhancement Services</a>
+												<a href="">Color Variants & Color Changing</a>
+												<a href="">eCommerce Product Image Edit</a>
 											</div>
 										</li>
 										<li>
-											<a href="image-editing-price.php">Pricing</a>
+											<a href="">Pricing</a>
 										</li>
 										<li class="position-relative resources">
 											<a href="javascript:void(0)">Resources</a>
 											<div class="resources_menu">
-												<a href="free-quote.php">Get a Free Quote</a>
-												<a href="how-it-work.php">How It Works - FAQ</a>
-												<a href="photoshop-image-editing-work.php">Gallery</a>
-												<a href="privacy-policy.php">Privacy Policy</a>
-												<a href="photo-editor-service-provider-terms-and-conditions.php">Terms and Conditions</a>
-												<a href="https://www.clippingpathphoto.com/blog/" target="_block">Blog</a>
+												<a href="">Get a Free Quote</a>
+												<a href="">How It Works - FAQ</a>
+												<a href="">Gallery</a>
+												<a href="">Privacy Policy</a>
+												<a href="">Terms and Conditions</a>
+												<a href="" target="_block">Blog</a>
 											</div>
 										</li>
 										<li>
-                    						<a href="photo-editing-service-provider-in-bangladesh.php">About Us</a>
-                    					</li>
+          						<a href="">About Us</a>
+          					</li>
 										<li>
-											<a href="contact-us.php">Contact</a>
+											<a href="">Contact</a>
 										</li>
 										<li>
-											<a href="free-trial.php" class="free_trial btn btn-primary btn-sm text-white py-1 mx-3" style="margin-top: 4px;letter-spacing: 1.2px;font-size: 16px;"><b>Free Trial</b></a>
+											<a href="" class="free_trial btn btn-primary btn-sm text-white py-1 mx-3" style="margin-top: 4px;letter-spacing: 1.2px;font-size: 16px;"><b>Free Trial</b></a>
 										</li>
 										<li>
 											<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -308,43 +308,43 @@ header("Cache-Control: max-age=2592000");
 						<a href="/">Home</a>
 					</li>
 					<li class="position-relative">
-						<a class="border-bottom" href="photo-editing-service-for-photographers.php">Services</a>
+						<a class="border-bottom" href="">Services</a>
 						<div class="services_mobile_menu pl-3">
-						    <a class="border-bottom" href="image-clipping-path-services-provider-company.php">Clipping Path Service</a>
-							<a class="border-bottom" href="photoshop-image-multi-clipping-path-services.php">Multi Clipping Path Service</a>
-							<a class="border-bottom" href="image-background-removal-services.php">Background Removal Service</a>
-							<a class="border-bottom" href="photoshop-image-masking-service.php">Photoshop Image Masking Service</a>
-							<a class="border-bottom" href="photoshop-image-retouching-service.php">Image Retouching Service</a>
-							<a class="border-bottom" href="ghost-mannequin-effect-photoshop.php">Mannequin Remove Neck Joint</a>
-							<a class="border-bottom" href="photoshop-photo-shadow-effect.php">Image Shadow Effect</a>
-							<a class="border-bottom" href="image-enhancement-services.php">Image Enhancement Services</a>
-							<a class="border-bottom" href="photoshop-Color-variant-changing.php">Color Variants & Color Changing</a>
-							<a class="border-bottom" href="eCommerce-product-image-editing-services.php">eCommerce Product Image Edit</a>
+						  <a class="border-bottom" href="">Clipping Path Service</a>
+							<a class="border-bottom" href="">Multi Clipping Path Service</a>
+							<a class="border-bottom" href="">Background Removal Service</a>
+							<a class="border-bottom" href="">Photoshop Image Masking Service</a>
+							<a class="border-bottom" href="">Image Retouching Service</a>
+							<a class="border-bottom" href="">Mannequin Remove Neck Joint</a>
+							<a class="border-bottom" href="">Image Shadow Effect</a>
+							<a class="border-bottom" href="">Image Enhancement Services</a>
+							<a class="border-bottom" href="">Color Variants & Color Changing</a>
+							<a class="border-bottom" href="">eCommerce Product Image Edit</a>
 						</div>
 					</li>
 					<li>
-						<a href="image-editing-price.php">Pricing</a>
+						<a href="">Pricing</a>
 					</li>
 					
 					<li class="position-relative">
 						<a class="border-bottom" href="javascript:void(0)">Resources</a>
 						<div class="services_mobile_menu pl-3">
-							<a class="border-bottom" href="free-quote.php">Get a Free Quote</a>
-							<a class="border-bottom" href="how-it-work.php">How It Works - FAQ</a>
-							<a class="border-bottom" href="photoshop-image-editing-work.php">Gallery</a>
-							<a class="border-bottom" href="privacy-policy.php">Privacy Policy</a>
-							<a class="border-bottom" href="photo-editor-service-provider-terms-and-conditions.php">Terms and Conditions</a>
-							<a href="https://www.clippingpathphoto.com/blog/" target="_block">Blog</a>
+							<a class="border-bottom" href="">Get a Free Quote</a>
+							<a class="border-bottom" href="">How It Works - FAQ</a>
+							<a class="border-bottom" href="">Gallery</a>
+							<a class="border-bottom" href="">Privacy Policy</a>
+							<a class="border-bottom" href="">Terms and Conditions</a>
+							<a href="" target="_block">Blog</a>
 						</div>
 					</li>
 					<li>
-						<a href="photo-editing-service-provider-in-bangladesh.php">About Us</a>
+						<a href="">About Us</a>
 					</li>
 					<li>
-						<a href="contact-us.php">Contact</a>
+						<a href="">Contact</a>
 					</li>
 					<li>
-						<a href="free-trial.php">Free Trial</a>
+						<a href="">Free Trial</a>
 					</li>
 					<li>
 						<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
